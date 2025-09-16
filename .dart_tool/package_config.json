@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-67.0.0",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-85.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.5"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.4.1",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-7.7.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.5"
     },
     {
       "name": "args",
@@ -33,9 +33,9 @@
     },
     {
       "name": "build",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build-2.4.1",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build-2.5.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.7"
     },
     {
       "name": "build_config",
@@ -51,21 +51,21 @@
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build_resolvers-2.4.2",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build_resolvers-2.5.4",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.7"
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.4.12",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.5.4",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.7"
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner_core-7.3.1",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner_core-9.1.2",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.7"
     },
     {
       "name": "build_verify",
@@ -81,7 +81,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.9.2",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.12.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -135,9 +135,9 @@
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/dart_style-2.3.6",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/dart_style-3.1.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.7"
     },
     {
       "name": "file",
@@ -172,6 +172,12 @@
     {
       "name": "graphs",
       "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -309,9 +315,9 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/source_gen-1.5.0",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/source_gen-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.6"
     },
     {
       "name": "source_map_stack_trace",
@@ -335,7 +341,7 @@
       "name": "sqfentity_gen",
       "rootUri": "../sqfentity_gen",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "stack_trace",
@@ -369,21 +375,21 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/test-1.25.2",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/test-1.26.3",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.5"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.0",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.7",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.5"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/test_core-0.6.0",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/test_core-0.6.12",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.5"
     },
     {
       "name": "timing",
@@ -417,15 +423,15 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.5.1",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "web_socket_channel",
-      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.5",
+      "rootUri": "file:///C:/Users/CristianoCantelli/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "2.15"
     },
     {
       "name": "webkit_inspection_protocol",
