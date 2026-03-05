@@ -5,6 +5,7 @@
 import 'package:analyzer/dart/element/element.dart';
 import 'package:build/build.dart';
 import 'package:source_gen/source_gen.dart';
+
 import '../sqfentity_gen.dart';
 
 //import 'package:sqfentity_base/sqfentity_base.dart';
@@ -37,9 +38,7 @@ class SqfEntityFormGenerator extends GeneratorForAnnotation<SqfEntityBuilder> {
     }
 
     final modelStr = StringBuffer();
-    final String path = element.source
-        .toString()
-        .substring(element.source.toString().lastIndexOf('/') + 1);
+    final String path = buildStep.inputId.path.split('/').last;
     if (dbModel.ignoreForFile != null && dbModel.ignoreForFile!.isNotEmpty) {
       modelStr
           .writeln('// ignore_for_file: ${dbModel.ignoreForFile!.join(', ')}');
